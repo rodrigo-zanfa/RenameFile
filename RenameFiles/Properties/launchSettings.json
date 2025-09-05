@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RenameFiles": {
+      "commandName": "Project",
+      "commandLineArgs": "Validsoft04"
+    }
+  }
+}
